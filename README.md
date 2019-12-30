@@ -21,3 +21,4 @@ python rps_runner.py -m <#matches> -r <#rounds> agent.py desiredbot.py
 Replace the <#> with the desired number of matches and rounds respectively.
 
 # Disclaimer 
+This project was completed for a university class for EAI 320 - Intelligent Systems, University of Pretoria and may not be copied. The project has been slightly adpated.
